@@ -2,6 +2,7 @@
 school Robogame.This is the work of our team,Chomolangma.The members of our team are Yue Zhang,Miaoquan Xu,Xinyuan Zhu,Yang chen.
 This repository includes:
 codes of the car(for arduino)
+image recognition(w ye bu zhi dao tu xiang shi bie zen me shuo)
 log
 maybe more will be added to this repository later...
 WARNING!!!
